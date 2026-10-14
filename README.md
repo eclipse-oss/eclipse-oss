@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет! Я начинающий веб-разработчик
 
-<!--
-**eclipse-oss/eclipse-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я учусь в колледже и активно развиваюсь в сфере **веб-разработки с упором на Backend и автоматизацию**. 
 
-Here are some ideas to get you started:
+Основные направления моей деятельности:
+* 🕷️ **Парсинг и сбор данных:** проектирую быстрые и эффективные парсеры для автоматического сбора информации с веб-ресурсов.
+* 🤖 **Разработка Telegram-ботов:** создаю интерактивных ботов любой сложности с кастомной логикой и интеграцией внешних API.
+* 🌐 **Backend-разработка:** пишу надежную серверную логику и проектирую базы данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Постоянно практикуюсь, изучаю архитектурные подходы и стремлюсь к созданию чистого, отказоустойчивого и качественного коммерческого кода.
+
+### 🚀 Мой стек технологий & Инструменты
+
+#### 💻 Языки программирования & Фреймворки
+[![Languages & Frameworks](https://skillicons.dev/icons?i=python,django,flask,selenium&theme=light)](https://skillicons.dev)
+
+#### 🛠️ Инструменты & Базы данных
+[![Tools & DB](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,sqlite&theme=light)](https://skillicons.dev)
+
+#### 💿 Операционные системы
+[![OS](https://skillicons.dev/icons?i=arch,mint,windows&theme=light)](https://skillicons.dev)
+
+> _💡 Примечание: Выше указаны технологии, которые я уже использую или активно изучаю прямо сейчас._
+
+---
+
+### 📫 Как со мной связаться
+*  **Мой телеграм** &nbsp; [Клик👈](https://t.me/windwalker553)
+*  **Моя почта** &nbsp; [Клик👈](mailto:windwalker553@gmail.com)
