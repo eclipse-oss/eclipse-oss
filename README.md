@@ -1,29 +1,31 @@
-# 👋 Привет! Я веб-разработчик
+# 👋 Hi! I'm a Web Developer
 
-Я активно развиваюсь в сфере **веб-разработки с упором на Backend и автоматизацию**. 
+I am actively growing in **web development with a strong focus on Backend and automation**.
 
-Основные направления моей деятельности:
-* 🕷️ **Парсинг и сбор данных:** проектирую быстрые и эффективные парсеры для автоматического сбора информации с веб-ресурсов.
-* 🤖 **Разработка Telegram-ботов:** создаю интерактивных ботов любой сложности с кастомной логикой и интеграцией внешних API.
-* 🌐 **Backend-разработка:** пишу надежную серверную логику и проектирую базы данных.
+### Main areas of my expertise:
+* 🛠️ **Web Scraping & Data Extraction:** I design fast and efficient scrapers for automated data collection from web resources.
+* 🤖 **Telegram Bot Development:** I build interactive bots of any complexity with custom logic and third-party API integrations.
+* 💻 **Backend Development:** I write reliable server-side logic and design databases.
 
-Постоянно практикуюсь и изучаю архитектурные подходы.
+I am constantly practicing and exploring software architectural approaches.
+---
+### 🛠️ My Tech Stack & Tools
 
-### 🚀 Мой стек технологий & Инструменты
 
-#### 💻 Языки программирования & Фреймворки
+#### 💻 Languages & Frameworks
+
 [![Languages & Frameworks](https://skillicons.dev/icons?i=python,django,flask,selenium&theme=light)](https://skillicons.dev)
 
-#### 🛠️ Инструменты & Базы данных
+#### 🔧 Tools & Databases
 [![Tools & DB](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,sqlite&theme=light)](https://skillicons.dev)
 
-#### 💿 Операционные системы
+#### 🖥️ Operating Systems
 [![OS](https://skillicons.dev/icons?i=arch,mint,windows&theme=light)](https://skillicons.dev)
 
-> _💡 Примечание: Выше указаны технологии, которые я уже использую или активно изучаю прямо сейчас._
+> 💡 *Note: The technologies listed above are those I already use or am actively learning right now.*
 
 ---
 
-### 📫 Как со мной связаться
-*  **Мой телеграм** &nbsp; [Клик👈](https://t.me/windwalker553)
-*  **Моя почта** &nbsp; [Клик👈](mailto:windwalker553@gmail.com)
+### 💬 Connect with me
+*  **My Telegram:** &nbsp; [Клик👈](https://t.me/windwalker553)
+*  **My Email:** &nbsp; [Клик👈](mailto:windwalker553@gmail.com)
