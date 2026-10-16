@@ -27,5 +27,5 @@ I am constantly practicing and exploring software architectural approaches.
 ---
 
 ### 💬 Connect with me
-*  **My Telegram:** &nbsp; [Клик👈](https://t.me/windwalker553)
-*  **My Email:** &nbsp; [Клик👈](mailto:windwalker553@gmail.com)
+*  **My Telegram:** &nbsp; [Click👈](https://t.me/windwalker553)
+*  **My Email:** &nbsp; [Click👈](mailto:windwalker553@gmail.com)
