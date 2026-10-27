@@ -3,9 +3,10 @@
 I am actively growing in **web development with a strong focus on Backend and automation**.
 
 ### Main areas of my expertise:
-* 🛠️ **Web Scraping & Data Extraction:** I design fast and efficient scrapers for automated data collection from web resources.
-* 🤖 **Telegram Bot Development:** I build interactive bots of any complexity with custom logic and third-party API integrations.
+* 💻 **Web Scraping & Data Extraction:** I design fast and efficient scrapers for automated data collection from web resources.
+* 💻 **Telegram Bot Development:** I build interactive bots of any complexity with custom logic and third-party API integrations.
 * 💻 **Backend Development:** I write reliable server-side logic and design databases.
+* 💻 **Computer Vision:** I build robust image processing pipelines and train real-time object detection models.
 
 I am constantly practicing and exploring software architectural approaches.
 ---
